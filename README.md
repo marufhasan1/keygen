@@ -1,4 +1,4 @@
-# keygen
+# Keygen
 Random Key, Password Generator Large number of characters
 
 ```php
