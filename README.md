@@ -1,5 +1,5 @@
 # Keygen
-Random Key, Password Generator Large number of characters
+Random Key, Password Generator Large number of characters simple logic easy to use.
 
 ```php
 require_once("keygen.php");
