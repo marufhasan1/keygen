@@ -1,2 +1,8 @@
 # keygen
 Random Key, Password Generator Large number of characters
+
+```php
+	require_once("keygen.php");
+	echo key_gen(10);
+```
+> There is only one parameter `key_gen(length)` length of the character's number you need.
